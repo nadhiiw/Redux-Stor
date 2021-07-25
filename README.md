@@ -39,6 +39,3 @@ E-commerce website that allows user to login and purchase items, also see their 
 <p><a href="https://nodejs.org/">Node.js</a></p>
 
 
-## Contributor:
-Sylvia Prabudy ©2020 All Rights Reserved.
-- - -
